@@ -1,0 +1,17 @@
+# x, y, width, height
+EMULATOR_REGION = (660, 35, 560, 995)
+ELEVATOR_REGION = (820, 490, 320, 140)
+COIN_REGION = (660, 960, 105, 20)
+
+# detection parameters
+STABLE_TIME = 1.0
+SSIM_THRESHOLD = 0.995
+
+# delay parameters
+CLICK_DELAY = 0.2
+
+# click
+EXIT_BUTTON = (1175, 980)
+KMSF_BUTTON = (930, 400)
+ZACH_BUTTON = (930, 480)
+CONTINUE_BUTTON = (940, 635)
