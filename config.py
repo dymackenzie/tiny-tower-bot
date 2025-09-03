@@ -1,6 +1,5 @@
 # x, y, width, height
 EMULATOR_REGION = (660, 35, 560, 995)
-ELEVATOR_REGION = (820, 490, 320, 140)
 COIN_REGION = (660, 960, 105, 20)
 
 # detection parameters
