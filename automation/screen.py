@@ -1,8 +1,6 @@
 import pyautogui
 import cv2
 import numpy as np
-
-import pyautogui
 import time
 
 def capture_screen(region=None, retries=3, delay=0.2):
